@@ -16,9 +16,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c,java,cs" /><br>
 </div>
 <h2>Stats:</h2>
-<div align=center>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=505kurt&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-</div>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=505kurt&hide_border=true&theme=transparent&layout=compact" />

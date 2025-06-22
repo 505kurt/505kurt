@@ -12,7 +12,7 @@
 <h2 align="left">Languages, Frameworks & Tools:</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,sql,figma,git" />
     <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c,java,cs" /><br>
 </div>
 <h2>Stats:</h2>

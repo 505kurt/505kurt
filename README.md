@@ -62,7 +62,7 @@
 </details>
 <details>
 	<summary><strong>Stats:</strong></summary>
-	<div>
+	<div align="center">
 		<img alt="Streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app?user=505kurt&theme=dark&hide_border=true&ring=0464fc&fire=0464fc&currStreakLabel=0d52bc&sideLabels=0d52bc&hide_longest_streak=true&background=transparent"/>
 		<img alt="Wakatime stats" src="https://readme-stats-flax-alpha.vercel.app/api/wakatime?username=505kurt&langs_count=5&theme=transparent&hide_border=true&display_format=percent"/>
 	</div>
